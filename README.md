@@ -54,9 +54,109 @@
     <p> • Dev.... <p>
     <p> • Dev.... <p>
   </div>
-  
+ 
 
+  <div>
+ <h2 align="center">ᴛᴇᴄɴᴏʟᴏɢɪᴀs 👨🏻‍💻  </h2>
+ <div align="center">
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   </span>
   
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   </span>
+   
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+   </span>
+  
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+   </span>
+   
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   </span>
+   
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+   </span>
+  
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+   </span>
+  
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+   </span>
+    
+ </div>
+</div>
+  
+  ##
+  
+ <div>
+    <img align="right" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" width="400px">
+ </div>
+ 
+   ##
+   
+ <div>
+  
+  
+ <p><b>Front-end developers:  </b></p>
+   
+  <p>Pedro H. Costa </p>
+  <a href="https://github.com/pedro-costa22" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"    target="_blank"></a>
+  
+  <p>Matheus Pacco</p>
+  <a href="https://github.com/MatheusPacco" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
+   
+   <p>Gabriela Camargo</p>
+  <a href="https://github.com/GabiCmg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
+  </div>
+   
+   <p>Gabriel Miguel</p>
+  <a href="https://github.com/gabrielmiguell" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
+  
+  ##
+  
+ <div>
+   
+   <div>
+    <img align="right" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" width="400px">
+ </div>
+ 
+   ##
+   
+ <div>
+  
+  
+ <p><b>Back-end developers:  </b></p>
+   
+  <p>Lucca Macedo </p>
+  <a href="https://github.com/MacedoMLucca" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"    target="_blank"></a>
+  
+  <p>Veronica Gomes</p>
+  <a href="https://github.com/Veronica-gomes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
+   
+   <p>Felype Nunes</p>
+  <a href="https://github.com/felps2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
+  </div>
+   
+   <p>Breno Amorim</p>
+  <a href="https://github.com/Killuazin-lab" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
+  
+  ##
+  
+ <div>
+  
+  
+ 
+ 
+ 
+   
  
    
    

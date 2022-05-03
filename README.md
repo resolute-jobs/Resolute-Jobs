@@ -47,7 +47,7 @@
   ##
   
   <div> 
-    <h3> Principais atividades </h3>
+    <h3> Principais atendimento </h3>
     <p> • Dev.... <p>
     <p> • Dev.... <p>
     <p> • Dev.... <p>
@@ -125,7 +125,7 @@
  <div>
    
    <div>
-    <img align="right" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" width="400px">
+    <img align="right" src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="400px">
  </div>
  
    ##

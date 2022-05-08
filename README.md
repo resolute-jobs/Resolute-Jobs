@@ -97,7 +97,7 @@
   ##
   
  <div>
-    <img align="right" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" width="400px">
+    <img align="right" src="https://github.com/nomegustaa/nomegustaa/blob/main/gif/giphy(2).gif" width="400px">
  </div>
  
    ##
@@ -125,7 +125,7 @@
  <div>
    
    <div>
-    <img align="right" src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="400px">
+    <img align="right" src="https://github.com/nomegustaa/nomegustaa/blob/main/gif/giphy(2).gif" width="400px">
  </div>
  
    ##

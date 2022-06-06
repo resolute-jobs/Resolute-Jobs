@@ -99,7 +99,7 @@
   ##
   
  <div>
-    <img align="right" src="https://github.com/nomegustaa/nomegustaa/blob/main/gif/giphy(2).gif" width="400px">
+    <img align="right" src="https://github.com/nomegustaa/nomegustaa/blob/main/gif/giphy(2).gif" width="100px">
  </div>
  
    ##
@@ -126,9 +126,7 @@
   
  <div>
    
-   <div>
-    <img align="right" src="https://github.com/nomegustaa/nomegustaa/blob/main/gif/giphy(2).gif" width="400px">
- </div>
+  
  
    ##
    

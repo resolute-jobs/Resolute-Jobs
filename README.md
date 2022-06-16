@@ -50,11 +50,11 @@
   
   <div> 
     <h3> Principais atendimento </h3>
-    <p> • Dev.... <p>
-    <p> • Dev.... <p>
-    <p> • Dev.... <p>
-    <p> • Dev.... <p>
-    <p> • Dev.... <p>
+    <p> • Programação e TI 👨‍💻<p>
+    <p> • Design UI/UX 🎨<p>
+    <p> • Infraestrutura 🚀<p>
+    <p> • Marketing e Vendas 🔊<p>
+    <p> • Comunicação 🎤<p>
   </div>
  
 
@@ -98,60 +98,14 @@
   
   ##
   
- <div>
-    <img align="right" src="https://github.com/nomegustaa/nomegustaa/blob/main/gif/giphy(2).gif" width="100px">
- </div>
- 
+
    ##
    
  <div>
   
-  
- <p><b>Front-end developers:  </b></p>
-   
-  <p>Pedro H. Costa </p>
-  <a href="https://github.com/pedro-costa22" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"    target="_blank"></a>
-  
-  <p>Matheus Pacco</p>
-  <a href="https://github.com/MatheusPacco" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
-   
-   <p>Gabriela Camargo</p>
-  <a href="https://github.com/GabiCmg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
-  </div>
-   
-   <p>Gabriel Miguel</p>
-  <a href="https://github.com/gabrielmiguell" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
-  
-  ##
-  
- <div>
-   
-  
- 
-   ##
-   
- <div>
-  
-  
- <p><b>Back-end developers:  </b></p>
-   
-  <p>Lucca Macedo </p>
-  <a href="https://github.com/MacedoMLucca" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"    target="_blank"></a>
-  
-  <p>Veronica Gomes</p>
-  <a href="https://github.com/Veronica-gomes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
-   
-   <p>Felype Nunes</p>
-  <a href="https://github.com/felps2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
-  </div>
-   
-   <p>Breno Amorim</p>
-  <a href="https://github.com/Killuazin-lab" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
-  
-  ##
-  
- <div>
-  
+
+  ![Frame 66 (3)](https://user-images.githubusercontent.com/104780954/174146749-1242e3c8-4f12-4354-a901-4198a9eca809.png)
+
   
  
  
